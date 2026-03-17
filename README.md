@@ -5,8 +5,12 @@ That's cute icon
 
 ![sorry I can't put the pictuer](https://github.com/kei-program.png)
 
+**My hobbyes**
+
 I like tennis!🎾  
 I play tennis every week.
+
+**My technologies**
 <!--
 **kei-program/kei-program** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
