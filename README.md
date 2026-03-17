@@ -1,5 +1,8 @@
 ## i'm japanese programer and university student. 👋
+*I am learning English. so I can't speak well enough...* 
 
+I like tennis!🎾  
+I play tennis every week.
 <!--
 **kei-program/kei-program** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
