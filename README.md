@@ -10,6 +10,8 @@ That's cute icon
 I like tennis!🎾  
 I play tennis every week.
 
+**My way**
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kei-program&show_icons=true&theme=radical)
 
 **My technologies**
